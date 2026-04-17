@@ -30,10 +30,6 @@ This project focuses on analyzing sales data from a brick-and-mortar business to
 * Improved decision-making through KPIs
 * Highlighted underperforming areas
 
-## 📷 Dashboard Preview
-
-(Add your screenshot here)
-
 ## 📌 Conclusion
 
 This project demonstrates how data analytics can drive business decisions using real-world sales data.
